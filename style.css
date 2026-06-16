@@ -632,36 +632,6 @@ footer .container .sec p a:hover,
     backdrop-filter: blur(5px);
     background-color: #00000041;
   }
-
-  /* === .navbar #menu-open-button === */
-
-  /* === .navbar .nav-menu #menu-close-button === */
-
-  /* === .navbar .nav-menu, body.show-mobile-menu .nav-menu === */
-
-  /* === .navbar .nav-menu .nav-link === */
-
-  /* === .hero-section .section-content === */
-
-  /* === .hero-section .hero-details :is(.subtitle, .description), .about-section .about-details, .contact-section .contact-form === */
-
-  /* === .hero-section .hero-details .buttons === */
-
-  /* === .hero-section .hero-image-wrapper === */
-
-  /* === .about-section .section-content === */
-
-  /* === .about-section .about-image-wrapper .about-image === */
-
-  /* === .menu-section .menu-list === */
-
-  /* === .menu-section .menu-list .menu-item === */
-
-  /* === .gallery-section .gallery-list === */
-
-  /* === .gallery-section .gallery-list .gallery-item === */
-
-  /* === .contact-section .section-content === */
 }
 
 /* === @media screen and (max-width: 780px) === */
@@ -755,19 +725,4 @@ footer .container .sec p a:hover,
   footer .container {
     grid-template-columns: 1fr;
   }
-  /* === .hero-section .hero-details .subtitle === */
-
-  /* === .testimonials-section .slider-wrapper === */
-
-  /* === .testimonials-section .swiper-slide-button === */
-
-  /* === footer .container === */
-
-  /* === footer === */
-
-  /* === .menu-section .menu-list === */
-  /* === .menu-section .menu-list .menu-item === */
-
-  /* === .gallery-section .gallery-list === */
-  /* ===  .gallery-section .gallery-list .gallery-item === */
 }
