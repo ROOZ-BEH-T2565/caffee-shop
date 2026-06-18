@@ -149,7 +149,7 @@ section .section-title::after {
 /* === .hero-section === */
 .hero-section {
   color: var(--white-color);
-  background-image: url(/images/image2.png);
+  background-image: url(images/image2.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
